@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Isuri Dinelka Keshani</h1>
 <h3 align="center">I'm an undergraduate student in Computing and Information Systems. I'm passionate about programming,cybersecurity and exploring new areas in technology. I enjoy learning about emerging fields in IT. 🚀 Always curious to improve my skills and contribute to meaningful projects.</h3>
 
-- 🔭 I’m currently working on [a project related to smart home energy management system.](https://github.com/miss-dinelka/Smart-Home-Energy-Management-System)
+- 🔭 I’m currently working on [the project of smart home energy management system.](https://github.com/miss-dinelka/Smart-Home-Energy-Management-System)
 
 - 🌱 I’m currently learning **Flutter (Dart), Java, MongoDB, and Figma to build creative, secure, and user-friendly digital solutions.**
 
-- 📫 How to reach me **isurid.keshani@gmail.com**
+- 📫 You can reach me via **isurid.keshani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
