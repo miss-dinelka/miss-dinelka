@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isuri Dinelka Keshani</h1>
-<h3 align="center">I'm an undergraduate student in Computing and Information Systems. I'm passionate about programming,cybersecurity and exploring new areas in technology. I enjoy learning about emerging fields in IT. 🚀 Always curious to improve my skills and contribute to meaningful projects.</h3>
+<h3 align="center">I'm an undergraduate student in Computing and Information Systems. I'm passionate about programming,cybersecurity and exploring new areas in technology. I enjoy learning about emerging fields in IT & curious to improve my skills and contribute to meaningful projects.</h3>
 
 - 🔭 I’m currently working on [smart home energy management system.](https://github.com/miss-dinelka/Smart-Home-Energy-Management-System)
 
