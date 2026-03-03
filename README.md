@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Isuri Dinelka Keshani</h1>
 <h3 align="center">I'm an undergraduate student in Computing and Information Systems. I'm passionate about programming,cybersecurity and exploring new areas in technology. I enjoy learning about emerging fields in IT & curious to improve my skills and contribute to meaningful projects.</h3>
 
-- 🔭 I’m currently working on [smart home energy management system.](https://github.com/miss-dinelka/Smart-Home-Energy-Management-System)
+- 🔭 I’m currently working on [SmartPrescence Attendance & Analytics Ecosystem](https://github.com/jeewnish/SmartPresence)
 
-- 🌱 I’m currently learning **Flutter (Dart), Java, MongoDB, and Figma to build creative, secure, and user-friendly digital solutions.**
+- 🌱 I’m currently learning **Java, HTML & CSS to build creative, secure, and user-friendly digital solutions.**
 
 - 📫 You can reach me via **isurid.keshani@gmail.com**
 
